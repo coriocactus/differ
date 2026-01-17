@@ -1,0 +1,10 @@
+target-version = "py314"
+line-length = 150
+indent-width = 2
+
+[lint]
+ignore = [
+    "E401",
+    "E701",
+    "E741",
+]
